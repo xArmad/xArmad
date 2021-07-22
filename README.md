@@ -1,4 +1,4 @@
-Hmu at: Armad#0001
+Hmu at: armad_i#0001
 
 <!---
 xArmad/xArmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
